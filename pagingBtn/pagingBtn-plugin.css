@@ -1,0 +1,18 @@
+.pageing-btn-plugin{
+    color: #50a9fd;
+}
+.pageing-btn-plugin > span{
+    display: inline-block;
+    font-size: 12px;
+    padding: 2px 10px;
+    border: 1px solid;
+    text-align: center;
+    line-height: 16px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 4px;
+    background: white;
+}
+.pageing-btn-plugin > .active {
+    background: #feffb1;
+}
